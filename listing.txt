@@ -1,6 +1,4 @@
-
-
-    Répertoire : C:\OddFolder
+Répertoire : C:\OddFolder
 
 
 Mode                 LastWriteTime         Length Name                                            
